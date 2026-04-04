@@ -1,7 +1,7 @@
 const http = require('http');
 
 const server = http.createServer((req, res) => {
-    res.write("Hello Machi! DevOps Project Running 🚀");
+    res.write("Hello Machi! Webhook Working 🔥");
     res.end();
 });
 
